@@ -1,6 +1,3 @@
-#include <stdio.h>
-
-int main(){
- printf("Hello World\n");
- return 0;
-}
+//
+// Created by student on 25.10.2024.
+//
